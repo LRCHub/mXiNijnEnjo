@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "星の数だけ",
+  "base_artist": "イルミネーションスターズ",
+  "createdAt": "2026-01-12T11:33:35.342007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星の数だけ",
+      "artist": "イルミネーションスターズ",
+      "has_synced": false,
+      "path": "select/01_星の数だけ_イルミネーションスターズ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星の数だけ",
+      "artist": "イルミネーションスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_星の数だけ_イルミネーションスターズ.txt"
+    }
+  ]
+}
